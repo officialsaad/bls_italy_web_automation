@@ -7,8 +7,8 @@ url = "https://blsitalypakistan.com/bls_appmnt/bls-italy-appointment"
 appointment_page_url = "https://blsitalypakistan.com/bls_appmnt/bls-italy-appointment"
 
 # User credentials
-ayaz_bhai_ka_email = "ayazsyed474@gmail.com"
-ayaz_bhai_ka_password = "Forgotton@34"
+ayaz_bhai_ka_email = "Enter Email"
+ayaz_bhai_ka_password = "Enter Password"
 
 options = webdriver.ChromeOptions()
 # options.add_argument("--disable-popup-blocking")
