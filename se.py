@@ -11,8 +11,8 @@ chrome_driver_path = "chromedriver-win64/chromedriver.exe"
 web_login_link = "https://blsitalypakistan.com/account/login"
 
 # User credentials
-ayaz_bhai_ka_email = "ayazsyed474@gmail.com"
-ayaz_bhai_ka_password = "Forgotton@34"
+ayaz_bhai_ka_email = "*"
+ayaz_bhai_ka_password = "*"
 
 options = webdriver.ChromeOptions()
 options.binary_location = 'chrome-win64/chrome.exe'
